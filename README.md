@@ -1,5 +1,11 @@
 # Raman Atom Interferometer Simulation
 
+## Ownership
+
+- Author: 赵博士
+- Affiliation: A-KNOWS 实验室，清华大学
+- Contact: yingpeng-zhao@mail.tsinghua.edu.cn
+
 这是一个用于 **Raman 原子干涉仿真** 的 MATLAB 程序，包含单维原子干涉和多维原子干涉两类模型。程序面向冷原子干涉实验中的 Raman 光脉冲过程，可用于模拟原子初始化、自由飞行、微波态制备、Raman 跃迁、AC Stark shift、Zeeman 修正、速度选择、Rabi 振荡、Raman 谱线和干涉条纹等过程。
 
 当前整理版的主代码为：
