@@ -1,5 +1,9 @@
 # Raman Atom Interferometer Simulation
 
+<p align="center">
+  <img src="assets/logo.png" alt="A-KNOWS logo" width="420">
+</p>
+
 ## Ownership
 
 - Author: 赵博士
