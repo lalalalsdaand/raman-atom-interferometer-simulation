@@ -18,3 +18,10 @@ Thumbs.db
 # Local logs and exports
 *.log
 *.zip
+
+# Simulation outputs
+results/
+figures/
+plots/
+output/
+outputs/
