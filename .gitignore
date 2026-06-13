@@ -1,0 +1,20 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mat
+*.fig
+
+# MATLAB build/cache artifacts
+*.mex*
+*.slxc
+codegen/
+slprj/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local logs and exports
+*.log
+*.zip
